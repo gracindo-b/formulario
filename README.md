@@ -14,5 +14,5 @@ Tela Editar: Para editar alguma informação de algum aluno
 <img width="1380" height="920" alt="Editar" src="https://github.com/user-attachments/assets/15af008e-21e1-4e47-8e8f-247eaede5468" />
 
 Tela de Formulario Aluno: Usado para coletar informção do aluno
-<img width="1380" height="920" alt="Editar" src="https://github.com/user-attachments/assets/5749b783-c280-431e-822e-943fe792a633" />
+<img width="1913" height="809" alt="Cadastro" src="https://github.com/user-attachments/assets/546bfb3a-982c-4486-b970-fd1ed4ec293b" />
 
